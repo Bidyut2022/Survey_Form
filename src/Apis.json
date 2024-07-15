@@ -1,0 +1,18 @@
+
+{
+  "Technology": [
+    "What is your preferred development environment?",
+    "Which version control system do you use?",
+    "How do you keep up with new technologies?"
+  ],
+  "Health": [
+    "What is your primary fitness goal?",
+    "Do you use any fitness tracking apps?",
+    "How do you manage stress?"
+  ],
+  "Education": [
+    "What motivated you to pursue your field of study?",
+    "Do you participate in any extracurricular activities?",
+    "How do you stay organized with your studies?"
+  ]
+}
